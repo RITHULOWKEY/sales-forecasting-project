@@ -22,7 +22,7 @@ Businesses need accurate sales forecasts to plan inventory, marketing, and reven
 ---
 
 ## 🔹 Source Code
-[View Jupyter Notebook](https://github.com/yourname/repo/blob/main/Rise4.0.ipynb)
+[View Jupyter Notebook](https://github.com/RITHULOWKEY/sales-forecasting-project/blob/main/Rise%204.0%20.ipynb) 
 
 ---
 
