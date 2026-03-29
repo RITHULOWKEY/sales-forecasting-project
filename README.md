@@ -1,4 +1,4 @@
-# 📊 Sales Forecasting and Revenue Prediction
+# 📊 Industry-Oriented Sales Forecasting and Revenue PredictionSystem
 
 ## 🔹 Objective
 To analyze historical sales data and predict future sales trends using machine learning techniques.
